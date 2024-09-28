@@ -6,13 +6,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring immersive technologies like AR/VR and experimenting with Raspberry Pi projects.
 
-TECHNICAL SKILLS			
--	Programming Languages : Python, JavaScript, SQL
--	Frameworks and Libraries : Django,  Bootstrap
--	Databases : MySQL
--	DevOps Tools : Git
--	Data Science : Pandas, NumPy
--	Version Control : Git, GitHub
--	API Development : RESTful APIs
-- Testing Tools : PyTest
--	Other Tools : Postman, HTML, CSS
+### TECHNICAL SKILLS
+- 💻 **Programming Languages**: Python 🐍, JavaScript ⚡, SQL 🛢️
+- 🛠️ **Frameworks and Libraries**: Django 🌐, Bootstrap 🎨
+- 🗄️ **Databases**: MySQL 🛢️
+- 🚀 **DevOps Tools**: Git 🗃️
+- 📊 **Data Science**: Pandas 🐼, NumPy 📐
+- 🔄 **Version Control**: Git 🗃️, GitHub 🐙
+- 🌐 **API Development**: RESTful APIs 🔗
+- 🧪 **Testing Tools**: PyTest 🧪
+- 🛠️ **Other Tools**: Postman 📮, HTML 📄, CSS 🎨
