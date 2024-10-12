@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moulish-dev, a Computer Science student specializing in Python and web development.
+- 👋 Hi, I’m Moulishwaran Balaji, a Computer Science student specializing in Python and web development.
 - 👀 I’m interested in building scalable applications, machine learning, and robotics.
 - 🌱 I’m currently learning Kubernetes, Jenkins, and Docker for DevOps, and TensorFlow for machine learning projects.
 - 💞️ I’m looking to collaborate on open-source projects related to web development, AI, and automation.
