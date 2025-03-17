@@ -17,7 +17,4 @@
 - 🌐 **API Development**: RESTful APIs 🔗
 - 🧪 **Testing Tools**: PyTest 🧪
 - 🛠️ **Other Tools**: Postman 📮, HTML 📄, CSS 🎨
-
-
 ---
-[![](https://visitcount.itsvg.in/api?id=moulish-dev&icon=0&color=0)](https://visitcount.itsvg.in)
